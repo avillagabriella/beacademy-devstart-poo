@@ -1,0 +1,1 @@
+<h1>Olá Mundo! Estou dentro de uma action, dentro do controller, esse HTML é uma view.</h1>
